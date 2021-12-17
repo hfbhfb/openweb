@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[274],{912:function(t,n,e){"use strict";e.r(n);var s=e(28),l=Object(s.a)({},(function(){var t=this.$createElement,n=this._self._c||t;return n("ContentSlotsDistributor",{attrs:{"slot-key":this.$parent.slotKey}},[n("p",[this._v("每日工作项:\n1, 删除dev环境的数据,走一遍测试\n2, 发现问题协助定位")])])}),[],!1,null,null,null);n.default=l.exports}}]);
